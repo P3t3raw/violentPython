@@ -1,0 +1,9 @@
+123456
+password
+letmein
+admin
+root
+toor
+secret
+hacker
+kali
